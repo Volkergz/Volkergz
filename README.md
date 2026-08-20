@@ -4,8 +4,8 @@
 
 ### Data / ML Engineer · Full Stack Developer
 
-[![LinkedIn](https://www.linkedin.com/in/haleym-hidalgo-torres/)
-[![Portfolio](https://portafolio-dzkt.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haleym-hidalgo-torres/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portafolio-dzkt.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haleymgabrielhidalgo@gmail.com)
 
 </div>
