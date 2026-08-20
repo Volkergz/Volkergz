@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hey, soy **Volkergz** 👋
+# Hey, soy **Haleym Hidalgo** 👋
 
 ### Data / ML Engineer · Full Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/volkergz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://volkergz.dev)
+[![LinkedIn](https://www.linkedin.com/in/haleym-hidalgo-torres/)
+[![Portfolio](https://portafolio-dzkt.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haleymgabrielhidalgo@gmail.com)
 
 </div>
